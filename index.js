@@ -18,9 +18,7 @@ const readme = `\
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
----
-
-![Progress Bar CI](https://github.com/starr-r/starr-r/workflows/Progress%20Bar%20CI/badge.svg)\
+\
 `
 
 console.log(readme)
