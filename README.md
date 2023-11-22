@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+<p>
+  <span id="year-progress">
+    Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+  </span>
+</p>
 
 ---
 
