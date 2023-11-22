@@ -8,4 +8,4 @@
 
 ### My GitHub contributions
 
-![](https://raw.githubusercontent.com/starr-r/starr-r/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/starr-r/starr-r/output/github-contribution-grid-snake.svg)
